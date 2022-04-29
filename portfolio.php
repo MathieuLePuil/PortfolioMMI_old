@@ -32,13 +32,43 @@
             <div class="menu-ue">
                 <nav>
                     <ul>
-                        <li><a href="" class="anav">Comprendre</a></li>
-                        <li><a href="" class="anav">Concevoir</a></li>
-                        <li><a href="" class="anav">Exprimer</a></li>
-                        <li><a href="" class="anav">Développer</a></li>
-                        <li><a href="" class="anav">Entreprendre</a></li>
+                        <li><a href="#comprendre" class="anav">Comprendre</a></li>
+                        <li><a href="#concevoir" class="anav">Concevoir</a></li>
+                        <li><a href="#exprimer" class="anav">Exprimer</a></li>
+                        <li><a href="#developper" class="anav">Développer</a></li>
+                        <li><a href="#entreprendre" class="anav">Entreprendre</a></li>
                     </ul>
                 </nav>
+            </div>
+        </section>
+        <section class="competence comprendre" id="comprendre">
+            <div class="txt-intro">
+                <h2>Comprendre</h2>
+                <p>Comprendre les écosystèmes, les besoins des utilisateurs et les dispositifs de communication numérique</p>
+            </div>
+        </section>
+        <section class="competence concevoir" id="concevoir">
+            <div class="txt-intro">
+                <h2>Concevoir</h2>
+                <p>Concevoir ou co-concevoir une réponse stratégique pertinente à une problématique complexe</p>
+            </div>
+        </section>
+        <section class="competence exprimer" id="exprimer">
+            <div class="txt-intro">
+                <h2>Exprimer</h2>
+                <p>Exprimer un message avec les médias numériques pour informer et communiquer</p>
+            </div>
+        </section>
+        <section class="competence developper" id="developper">
+            <div class="txt-intro">
+                <h2>Développer</h2>
+                <p>Développer pour le web et les médias numériques</p>
+            </div>
+        </section>
+        <section class="competence entreprendre" id="entreprendre">
+            <div class="txt-intro">
+                <h2>Entreprendre</h2>
+                <p>Entreprendre dans le secteur du numérique</p>
             </div>
         </section>
     </main>
