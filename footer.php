@@ -1,4 +1,4 @@
 <footer>
-    &copy; 2022 - Tous droits réservés - Mathieu Le Puil - SAE203
+    &copy; 2022 - Tous droits réservés - Mathieu Le Puil
 </footer>
 
