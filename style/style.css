@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url("../assets/BACKGROUND.webp");
+    background-image: url("../assets/BACKGROUND.png");
     background-attachment:fixed;
     background-repeat:no-repeat;
     background-size:cover;
@@ -209,4 +209,20 @@ footer {
     display: flex;
     justify-content: center;
     margin-top: 50px;
+}
+
+.competence {
+    margin-bottom: 30px;
+}
+
+.element-portfolio {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+}
+
+.element-portfolio img {
+    border-radius: 15px;
 }

@@ -58,9 +58,10 @@ h2 {
 .appcri {
     margin-top: 50px;
     font-family: 'Roboto', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     float: left;
     margin-left: 10%;
+    margin-right: 10%;
 }
 
 .wherefind {
