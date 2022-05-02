@@ -29,7 +29,7 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>WR113 - Développement Web (semestre 1)</h2>
+                <h2>WR212 - Intégration (semestre 2)</h2>
             </div>
             <div class="description">
                 <p></p>
@@ -40,14 +40,12 @@ require("../../debut.php");
                     <p>• AC4102 | Produire des pages Web statiques et fluides utilisant un balisage sémantique efficace</p>
                     <p>• AC4104 | Mettre en ligne une application Web en utilisant une solution d’hébergement standard</p>
                     <p>• AC4105 | Modéliser les données et les traitements d’une application Web</p>
-                    <p>• AC4106 | Utiliser et adapter un modèle d’accès aux données</p>
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/developper/r113-1.png" alt="r113-1" width="400">
-                <img src="../../assets/img-portfolio/developper/r113-2.png" alt="r113-2" width="400">
-                <img src="../../assets/img-portfolio/developper/r113-3.png" alt="r113-3" width="400">
-                <img src="../../assets/img-portfolio/developper/login.png" alt="login" width="400">
+                <img src="../../assets/img-portfolio/developper/r212-1.png" alt="r212-1" width="400">
+                <img src="../../assets/img-portfolio/developper/r212-2.png" alt="r212-2" width="400">
+                <img src="../../assets/img-portfolio/developper/r212-3.png" alt="r212-3" width="400">
             </div>
         </section>
     </main>

@@ -48,9 +48,6 @@ require("../../debut.php");
                 <img src="../../assets/img-portfolio/developper/r112-sequence01.png" alt="r112-sequence01" width="400">
                 <img src="../../assets/img-portfolio/developper/r112-sequence03.png" alt="r112-sequence03" width="400">
             </div>
-            <div class="wherefind">
-                <a href="https://mmi21b12.sae203.ovh/" id="btn" style="margin-top: 0;" target="_blank">Aller sur le site</a>
-            </div>
         </section>
     </main>
 
