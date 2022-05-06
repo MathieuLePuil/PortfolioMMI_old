@@ -29,23 +29,24 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>Analyse Sectorielle SAE101</h2>
+                <h2>Plan de communication Nigloland</h2>
             </div>
             <div class="description">
-                <p>Dans le cadre de la SAE101, Audit Communication Numérique, nous devions analyser cinq sites de musées. Nous devions les comparer afin de trouver par exemple les défauts et qualités de chacun. L'objectif est de conduire à des préconisations et des recommandations pour la conception d'un site de musée.</p>
+                <p>L'objectif du plan de communication est de définir la stratégie à mettre en place pour faire de la promotion. Nous avons donc analysé les publics cibles, les manières de communiquer afin de proposer une stratégie cohérente avec la cible et les enjeux.</p>
             </div>
             <div class="appcri">
                 <div>
-                    <p>• AC1102 | Évaluer un site web, un produit multimédia ou un dispositif interactif existant en s’appuyant sur des guides de bonnes pratiques</p>
+                    <p>• AC1106 | Réaliser des entretiens utilisateurs (sélection de la cible, écriture du guide d’entretien, organisation)</p>
+                    <p>• AC1107 | Bâtir le modèle des attentes utilisateurs</p>
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/comprendre/anasecsae101.png" alt="anasecsae101" width="400">
-                <img src="../../assets/img-portfolio/comprendre/anasecsae101-1.png" alt="anasecsae101-1" width="400">
-                <img src="../../assets/img-portfolio/comprendre/anasecsae101-2.png" alt="anasecsae101-2" width="400">
+                <img src="../../assets/img-portfolio/comprendre/pcniglo.png" alt="pcniglo" width="400">
+                <img src="../../assets/img-portfolio/comprendre/pcniglo-1.png" alt="pcniglo-1" width="400">
+                <img src="../../assets/img-portfolio/comprendre/pcniglo-2.png" alt="pcniglo-2" width="400">
             </div>
             <div class="wherefind">
-                <a href="../../assets/document/Analyse%20Sectorielle%20des%20sites%20de%20Musées%20-Diapo.pptm" id="btn" style="margin-top: 0px;" target="_blank">Télécharger la présentation</a>
+                <a href="../../assets/document/Presentation%20Nigloland.odp" id="btn" style="margin-top: 0px;" target="_blank">Télécharger la présentation</a>
             </div>
         </section>
     </main>
