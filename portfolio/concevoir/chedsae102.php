@@ -29,26 +29,25 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>Présentation Charlie Miller</h2>
+                <h2>Charte éditoriale SAE102</h2>
             </div>
             <div class="description">
-                <p>Dans le cadre des cours de Culture numérique, nous devions réaliser une présentation d'un œuvre cyberpunk ou d'un hacker célèbre. Nous avons décidé de présenter Charlie Miller, chercheur en sécurité des systèmes d'informations chez Uber.</p>
+                <p>Dans le cadre de la SAE Recommandation de communication numérique, nous avons rédigé une charte éditoriale. Cell-ci a pour but d'assurer la cohérence et la qualité d'une publication. Il s'agit du règlement auquel doit se soumettre le projet.</p>
             </div>
             <div class="appcri">
                 <div>
-                    <p>• AC1101 | Appréhender un contexte économique, sociologique, culturel, juridique, technologique, communicationnel et médiatique</p>
-                    <p>• AC1105 | Identifier les cibles (critères socio-économiques, démographiques, géographiques, culturels...)</p>
+                    <p>• AC2103 | Proposer une recommandation marketing (cibles, objectifs, points de contact)</p>
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/comprendre/charliem.png" alt="charliem" width="400">
-                <img src="../../assets/img-portfolio/comprendre/charliem-1.png" alt="charliem-1" width="400">
-                <img src="../../assets/img-portfolio/comprendre/charliem-2.png" alt="charliem-2" width="400">
+                <img src="../../assets/img-portfolio/concevoir/chedsae102.png" alt="chedsae102" width="400">
+                <img src="../../assets/img-portfolio/concevoir/chedsae102-1.png" alt="chedsae102-1" width="400">
+                <img src="../../assets/img-portfolio/concevoir/chedsae102-2.png" alt="chedsae102-2" width="400">
+            </div>
+            <div class="wherefind">
+                <a href="../../assets/document/SAE102_charte.pdf" id="btn" style="margin-top: 0px;" target="_blank">Télécharger le document</a>
             </div>
         </section>
-        <div class="wherefind">
-            <a href="../../assets/document/r104%20-%20charlie%20miller.pptx.pdf" id="btn" style="margin-top: 0px;" target="_blank">Télécharger la présentation</a>
-        </div>
     </main>
 
 

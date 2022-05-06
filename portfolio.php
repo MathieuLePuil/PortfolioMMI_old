@@ -114,6 +114,23 @@
                 <h2>Concevoir</h2>
                 <p>Concevoir ou co-concevoir une réponse stratégique pertinente à une problématique complexe</p>
             </div>
+            <div class="element-portfolio">
+                <div class="container-a1">
+                    <ul class="caption-style-1">
+                        <li>
+                            <a href="portfolio/concevoir/chedsae102.php"><img src="assets/img-portfolio/concevoir/chedsae102.png" width="400px"></a>
+                            <div class="caption">
+                                <div class="blur"></div>
+                                <div style="text-align: center;">
+                                    <div class="caption-text">
+                                        <h1>Charte éditoriale SAE102</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </section>
         <section class="competence exprimer" id="exprimer">
             <div class="txt-intro">
