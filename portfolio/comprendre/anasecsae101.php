@@ -29,21 +29,23 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>Présentation Charlie Miller</h2>
+                <h2>Analyse Sectorielle SAE101</h2>
             </div>
             <div class="description">
-                <p>Dans le cadre des cours de Culture numérique, nous devions réaliser une présentation d'un œuvre cyberpunk ou d'un hacker célèbre. Nous avons décidé de présenter Charlie Miller, chercheur en sécurité des systèmes d'informations chez Uber.</p>
+                <p>Dans le cadre de la SAE101, Audit Communication Numérique, nous devions analyser cinq sites de musées. Nous devions les comparer afin de trouver par exemple les défauts et qualités de chacun. L'objectif est de conduire à des préconisations et des recommandations pour la conception d'un site de musée.</p>
             </div>
             <div class="appcri">
                 <div>
-                    <p>• AC1101 | Appréhender un contexte économique, sociologique, culturel, juridique, technologique, communicationnel et médiatique</p>
-                    <p>• AC1105 | Identifier les cibles (critères socio-économiques, démographiques, géographiques, culturels...)</p>
+                    <p>• AC1102 | Évaluer un site web, un produit multimédia ou un dispositif interactif existant en s’appuyant sur des guides de bonnes pratiques</p>
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/comprendre/charliem.png" alt="charliem" width="400">
-                <img src="../../assets/img-portfolio/comprendre/charliem-1.png" alt="charliem-1" width="400">
-                <img src="../../assets/img-portfolio/comprendre/charliem-2.png" alt="charliem-2" width="400">
+                <img src="../../assets/img-portfolio/comprendre/anasecsae101.png" alt="anasecsae101" width="400">
+                <img src="../../assets/img-portfolio/comprendre/anasecsae101-1.png" alt="anasecsae101-1" width="400">
+                <img src="../../assets/img-portfolio/comprendre/anasecsae101-2.png" alt="anasecsae101-2" width="400">
+            </div>
+            <div class="wherefind">
+                <a href="../../assets/document/Analyse%20Sectorielle%20des%20sites%20de%20Musées%20-Diapo.pptm" id="btn" style="margin-top: 0px;" target="_blank">Télécharger la présentation</a>
             </div>
         </section>
     </main>
