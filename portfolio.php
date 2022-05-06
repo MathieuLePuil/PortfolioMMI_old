@@ -85,7 +85,22 @@
                                 <div class="blur"></div>
                                 <div style="text-align: center;">
                                     <div class="caption-text">
-                                        <h1>Audit Communication Numérique SAE101</h1>
+                                        <h1>Audit Comm Numérique SAE101</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="container-a1">
+                    <ul class="caption-style-1">
+                        <li>
+                            <a href="portfolio/comprendre/pcniglo.php"><img src="assets/img-portfolio/comprendre/pcniglo.png" width="400px"></a>
+                            <div class="caption">
+                                <div class="blur"></div>
+                                <div style="text-align: center;">
+                                    <div class="caption-text">
+                                        <h1>Plan de communication</h1>
                                     </div>
                                 </div>
                             </div>
