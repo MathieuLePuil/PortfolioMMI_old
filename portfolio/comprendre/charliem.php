@@ -29,24 +29,21 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>WR213 - Développement Web (semestre 2)</h2>
+                <h2>Présentation Charlie Miller</h2>
             </div>
             <div class="description">
-                <p></p>
+                <p>Dans le cadre des cours de Culture numérique, nous devions réaliser une présentation d'un œuvre cyberpunk ou d'un hacker célèbre. Nous avons décidé de présenter Charlie Miller, chercheur en sécurité des systèmes d'informations chez Uber.</p>
             </div>
             <div class="appcri">
                 <div>
-                    <p>• AC4101 | Exploiter de manière autonome un environnement de développement efficace et productif</p>
-                    <p>• AC4102 | Produire des pages Web statiques et fluides utilisant un balisage sémantique efficace</p>
-                    <p>• AC4104 | Mettre en ligne une application Web en utilisant une solution d’hébergement standard</p>
-                    <p>• AC4105 | Modéliser les données et les traitements d’une application Web</p>
-                    <p>• AC4106 | Utiliser et adapter un modèle d’accès aux données</p>
+                    <p>• AC1101 | Appréhender un contexte économique, sociologique, culturel, juridique, technologique, communicationnel et médiatique</p>
+                    <p>• AC1105 | Identifier les cibles (critères socio-économiques, démographiques, géographiques, culturels...)</p>
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/developper/r213-1.png" alt="r213-1" width="400">
-                <img src="../../assets/img-portfolio/developper/r213-2.png" alt="r213-2" width="400">
-                <img src="../../assets/img-portfolio/developper/r213-3.png" alt="r213-3" width="400">
+                <img src="../../assets/img-portfolio/comprendre/charliem.png" alt="charliem" width="400">
+                <img src="../../assets/img-portfolio/comprendre/charliem-1.png" alt="charliem-1" width="400">
+                <img src="../../assets/img-portfolio/comprendre/charliem-2.png" alt="charliem-2" width="400">
             </div>
         </section>
     </main>
