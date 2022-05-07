@@ -29,19 +29,21 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>WR208 Production graphique (Semestre 2)</h2>
+                <h2>WR109 Culture Artistique (Semestre 1)</h2>
             </div>
             <div class="description">
                 <p></p>
             </div>
             <div class="appcri">
                 <div>
+                    <p>• AC3102 | Produire des pistes graphiques et des planches d’inspiration</p>
                     <p>• AC3103 | Créer, composer et retoucher des visuels</p>
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/exprimer/wr208-1.jpg" alt="wr208-1" width="640" height="500">
-                <img src="../../assets/img-portfolio/exprimer/wr208-2.svg" alt="wr208-2" width="500">
+                <img src="../../assets/img-portfolio/exprimer/wr109-2.jpg" alt="wr109-2" width="500">
+                <img src="../../assets/img-portfolio/exprimer/wr109-3.jpg" alt="wr109-3" width="500">
+                <img src="../../assets/img-portfolio/exprimer/wr109-4.png" alt="wr109-4" width="500">
             </div>
         </section>
     </main>
