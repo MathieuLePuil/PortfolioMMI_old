@@ -167,6 +167,23 @@
                 <h2>Exprimer</h2>
                 <p>Exprimer un message avec les médias numériques pour informer et communiquer</p>
             </div>
+            <div class="element-portfolio">
+                <div class="container-a1">
+                    <ul class="caption-style-1">
+                        <li>
+                            <a href="portfolio/exprimer/wr108.php"><img src="assets/img-portfolio/exprimer/wr108.png" width="400px"></a>
+                            <div class="caption">
+                                <div class="blur"></div>
+                                <div style="text-align: center;">
+                                    <div class="caption-text">
+                                        <h1>WR108 - Production graphique</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </section>
         <section class="competence developper" id="developper">
             <div class="txt-intro">
