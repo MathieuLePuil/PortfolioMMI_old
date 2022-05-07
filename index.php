@@ -15,7 +15,7 @@
             <label for="check" class="checkbtn">
                 <i class="fa-solid fa-bars"></i>
             </label>
-            <a href="https://mathieulp.fr/index.php">
+            <a href="index.php">
                 <label class="logo">MathieuLP</label></a>
             <ul>
                 <li><a href="index.php" class="active anav">Accueil</a></li>
