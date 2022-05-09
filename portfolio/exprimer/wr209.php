@@ -29,7 +29,7 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>WR109 Culture Artistique (Semestre 1)</h2>
+                <h2>WR209 Culture Artistique (Semestre 2)</h2>
             </div>
             <div class="description">
                 <p></p>
@@ -41,7 +41,7 @@ require("../../debut.php");
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/exprimer/wr109-2.jpg" alt="wr109-2" width="500">
+                <img src="../../assets/img-portfolio/exprimer/wr209-2.png" alt="wr109-2" width="500">
                 <img src="../../assets/img-portfolio/exprimer/wr109-3.jpg" alt="wr109-3" width="500">
                 <img src="../../assets/img-portfolio/exprimer/wr109-4.png" alt="wr109-4" width="500">
             </div>

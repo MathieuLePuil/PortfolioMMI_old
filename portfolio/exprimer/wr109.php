@@ -41,9 +41,10 @@ require("../../debut.php");
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/exprimer/wr109-2.jpg" alt="wr109-2" width="500">
-                <img src="../../assets/img-portfolio/exprimer/wr109-3.jpg" alt="wr109-3" width="500">
-                <img src="../../assets/img-portfolio/exprimer/wr109-4.png" alt="wr109-4" width="500">
+                <img src="../../assets/img-portfolio/exprimer/wr109-1.jpg" alt="wr109-1" width="400">
+                <img src="../../assets/img-portfolio/exprimer/wr109-2.jpg" alt="wr109-2" width="400">
+                <img src="../../assets/img-portfolio/exprimer/wr109-3.jpg" alt="wr109-3" width="400">
+                <img src="../../assets/img-portfolio/exprimer/wr109-4.png" alt="wr109-4" width="400">
             </div>
         </section>
     </main>
