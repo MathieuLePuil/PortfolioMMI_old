@@ -236,7 +236,7 @@
                                 <div class="blur"></div>
                                 <div style="text-align: center;">
                                     <div class="caption-text">
-                                        <h1>SAE104 - Production audio et vidéo</h1>
+                                        <h1>SAE104 - Prod. audio et vidéo</h1>
                                     </div>
                                 </div>
                             </div>

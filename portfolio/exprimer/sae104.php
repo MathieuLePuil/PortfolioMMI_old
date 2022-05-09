@@ -29,21 +29,25 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>WR209 Culture Artistique (Semestre 2)</h2>
+                <h2>SAE104 Production audio et vidéo</h2>
             </div>
             <div class="description">
-                <p></p>
+                <p>Ce travail a été réalisé lors du cursus MMI. L'objectif était de faire une interview avec différent type de cadrage. Nous devions donc adaptées nos lumières et nos caméras selon l'environnement. </p>
             </div>
             <div class="appcri">
                 <div>
-                    <p>• AC3102 | Produire des pistes graphiques et des planches d’inspiration</p>
+                    <p>• AC3101 | Produire un écrit communicationnel dans un style juste et pertinent, en phase avec la stratégie</p>
                     <p>• AC3103 | Créer, composer et retoucher des visuels</p>
+                    <p>• AC3104 | Tourner et monter une vidéo (scénario, captation image et son...)</p>
+                    <p>• AC3106 | Optimiser les médias en fonction de leurs usages et supports de diffusion</p>
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/exprimer/wr209-2.png" alt="wr109-2" width="500">
-                <img src="../../assets/img-portfolio/exprimer/wr109-3.jpg" alt="wr109-3" width="500">
-                <img src="../../assets/img-portfolio/exprimer/wr109-4.png" alt="wr109-4" width="500">
+                <img src="../../assets/img-portfolio/exprimer/sae104-1.png" alt="sae104-1" width="500">
+                <img src="../../assets/img-portfolio/exprimer/sae104-2.png" alt="sae104-2" width="500">
+            </div>
+            <div class="wherefind">
+                <a href="https://www.youtube.com/watch?v=bj5ruehxG0w" id="btn" style="margin-top: 0px;" target="_blank">Voir la vidéo</a>
             </div>
         </section>
     </main>
