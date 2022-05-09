@@ -47,7 +47,7 @@ require("../../debut.php");
                 <img src="../../assets/img-portfolio/exprimer/sae104-2.png" alt="sae104-2" width="500">
             </div>
             <div class="wherefind">
-                <a href="../../assets/document/découpage-technique-vierge.pdf" id="btn" style="margin-top: 0px;" target="_blank">Télécharger le Storyboard</a>
+                <a href="../../assets/document/découpage-technique.pdf" id="btn" style="margin-top: 0px;" target="_blank">Télécharger le Storyboard</a>
                 <a href="https://www.youtube.com/watch?v=bj5ruehxG0w" id="btn" style="margin-top: 0px;" target="_blank">Voir la vidéo</a>
             </div>
         </section>
