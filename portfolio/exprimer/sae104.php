@@ -32,7 +32,7 @@ require("../../debut.php");
                 <h2>SAE104 Production audio et vidéo</h2>
             </div>
             <div class="description">
-                <p>Ce travail a été réalisé lors du cursus MMI. L'objectif était de faire une interview avec différent type de cadrage. Nous devions donc adaptées nos lumières et nos caméras selon l'environnement. </p>
+                <p>Ce travail a été réalisé lors du cursus MMI. L'objectif était de faire une interview avec différent type de cadrage. Nous devions donc adaptées nos lumières et nos caméras selon l'environnement grâce au storyboard de notre interview. Nous avons ensuite réalisé le montage avec Adobe Première Pro et After Effects.</p>
             </div>
             <div class="appcri">
                 <div>
@@ -47,6 +47,7 @@ require("../../debut.php");
                 <img src="../../assets/img-portfolio/exprimer/sae104-2.png" alt="sae104-2" width="500">
             </div>
             <div class="wherefind">
+                <a href="../../assets/document/découpage-technique-vierge.pdf" id="btn" style="margin-top: 0px;" target="_blank">Télécharger le Storyboard</a>
                 <a href="https://www.youtube.com/watch?v=bj5ruehxG0w" id="btn" style="margin-top: 0px;" target="_blank">Voir la vidéo</a>
             </div>
         </section>
