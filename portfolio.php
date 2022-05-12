@@ -378,6 +378,23 @@
                 <h2>Entreprendre</h2>
                 <p>Entreprendre dans le secteur du numérique</p>
             </div>
+            <div class="element-portfolio">
+                <div class="container-a1">
+                    <ul class="caption-style-1">
+                        <li>
+                            <a href="portfolio/entreprendre/sae106.php"><img src="assets/img-portfolio/entreprendre/sae106.png" width="400px"></a>
+                            <div class="caption">
+                                <div class="blur"></div>
+                                <div style="text-align: center;">
+                                    <div class="caption-text">
+                                        <h1>SAE106 - Gestion de projet</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </section>
     </main>
 
