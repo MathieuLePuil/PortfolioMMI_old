@@ -18,10 +18,10 @@
             <a href="index.php">
                 <label class="logo">MathieuLP</label></a>
             <ul>
-                <li><a href="index.php" class="active anav">Accueil</a></li>
+                <li><a href="index.php" class="anav">Accueil</a></li>
                 <li><a href="travaux.php" class="anav">Travaux</a></li>
                 <li><a href="portfolio.php" class="anav">Portfolio</a></li>
-                <li><a href="contact.php" class="anav">Contact</a></li>
+                <li><a href="contact.php" class="active anav">Contact</a></li>
             </ul>
         </nav>
     </header>
