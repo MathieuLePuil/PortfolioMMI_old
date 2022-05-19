@@ -112,12 +112,12 @@ require("debut.php");
                 <div class="container-a1">
                     <ul class="caption-style-1">
                         <li>
-                            <a href="https://mmi21b12.mmi-troyes.fr/travaux/r212/sequence1/monopoly.html" target="_blank"><img src="assets/img-travaux/r212/sequence1.png" width="400px"></a>
+                            <a href="https://mmi21b12.mmi-troyes.fr/travaux/r213/sequence1/infos.php" target="_blank"><img src="assets/img-travaux/r213/sequence1.png" width="400px"></a>
                             <div class="caption">
                                 <div class="blur"></div>
                                 <div style="text-align: center;">
                                     <div class="caption-text">
-                                        <h1>Monopoly</h1>
+                                        <h1>Traitement des données</h1>
                                     </div>
                                 </div>
                             </div>
@@ -127,12 +127,12 @@ require("debut.php");
                 <div class="container-a1">
                     <ul class="caption-style-1">
                         <li>
-                            <a href="https://mmi21b12.mmi-troyes.fr/travaux/r212/sequence2" target="_blank"><img src="assets/img-travaux/r212/sequence2.png" width="400px"></a>
+                            <a href="https://mmi21b12.mmi-troyes.fr/travaux/r213/sequence2/doc6.php" target="_blank"><img src="assets/img-travaux/r213/sequence2.png" width="400px"></a>
                             <div class="caption">
                                 <div class="blur"></div>
                                 <div style="text-align: center;">
                                     <div class="caption-text">
-                                        <h1>Hony Tawk's</h1>
+                                        <h1>PDF en PHP</h1>
                                     </div>
                                 </div>
                             </div>
@@ -142,27 +142,12 @@ require("debut.php");
                 <div class="container-a1">
                     <ul class="caption-style-1">
                         <li>
-                            <a href="https://mmi21b12.mmi-troyes.fr/travaux/r212/sequence3/" target="_blank"><img src="assets/img-travaux/r212/sequence3.png" width="400px"></a>
+                            <a href="https://mmi21b12.mmi-troyes.fr/travaux/r213/mmiple/" target="_blank"><img src="assets/img-travaux/r213/mmiple.png" width="400px"></a>
                             <div class="caption">
                                 <div class="blur"></div>
                                 <div style="text-align: center;">
                                     <div class="caption-text">
-                                        <h1>Mon parallaxe</h1>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="container-a1">
-                    <ul class="caption-style-1">
-                        <li>
-                            <a href="https://mmi21b12.mmi-troyes.fr/travaux/r212/sequence4" target="_blank"><img src="assets/img-travaux/r212/sequence4.png" width="400px"></a>
-                            <div class="caption">
-                                <div class="blur"></div>
-                                <div style="text-align: center;">
-                                    <div class="caption-text">
-                                        <h1>Calculatrice</h1>
+                                        <h1>MMiple</h1>
                                     </div>
                                 </div>
                             </div>
