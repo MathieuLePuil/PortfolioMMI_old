@@ -27,7 +27,7 @@ require("debut.php");
     <main>
         <section id="presentation">
             <div class="titre-page">
-                <h1>Portfolio</h1>
+                <h1>Travaux</h1>
             </div>
             <div class="menu-ue">
                 <nav>
