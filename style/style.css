@@ -227,3 +227,12 @@ footer {
 .element-portfolio img {
     border-radius: 15px;
 }
+
+.semestre {
+    font-size: 50px;
+}
+
+.module {
+    font-size: 35px;
+    margin-top: 40px;
+}
