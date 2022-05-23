@@ -41,6 +41,43 @@ require("debut.php");
         <section class="competence comprendre" id="semestre2">
             <div class="txt-intro">
                 <h2 class="semestre">Semestre 2</h2>
+            </div>
+                <div class="txt-intro">
+                    <h3 class="module">R211 - Gestion de contenu</h3>
+                </div>
+                <div class="element-portfolio">
+                    <div class="container-a1">
+                        <ul class="caption-style-1">
+                            <li>
+                                <a href="https://mmi21b12.mmi-troyes.fr/tpwp/" target="_blank"><img src="assets/img-travaux/r211/sequence1.png" width="400px"></a>
+                                <div class="caption">
+                                    <div class="blur"></div>
+                                    <div style="text-align: center;">
+                                        <div class="caption-text">
+                                            <h1>Surfeur MMI</h1>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="container-a1">
+                        <ul class="caption-style-1">
+                            <li>
+                                <a href="https://mmi21b12.mmi-troyes.fr/tpwp2" target="_blank"><img src="assets/img-travaux/r211/sequence2.png" width="400px"></a>
+                                <div class="caption">
+                                    <div class="blur"></div>
+                                    <div style="text-align: center;">
+                                        <div class="caption-text">
+                                            <h1>BDE IUT Troyes</h1>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            <div class="txt-intro">
                 <h3 class="module">R212 - Intégration</h3>
             </div>
             <div class="element-portfolio">
