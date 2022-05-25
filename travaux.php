@@ -42,6 +42,41 @@ require("debut.php");
             <div class="txt-intro">
                 <h2 class="semestre">Semestre 2</h2>
             </div>
+            <div class="txt-intro">
+                <h3 class="module">R205 - Stratégie de communication</h3>
+            </div>
+            <div class="element-portfolio">
+                <div class="container-a1">
+                    <ul class="caption-style-1">
+                        <li>
+                            <a href="assets/document/Presentation%20Nigloland.odp" target="_blank"><img src="assets/img-travaux/r205/pcniglo.png" width="400px"></a>
+                            <div class="caption">
+                                <div class="blur"></div>
+                                <div style="text-align: center;">
+                                    <div class="caption-text">
+                                        <h1>Plan de communication</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="container-a1">
+                    <ul class="caption-style-1">
+                        <li>
+                            <a href="assets/document/lair_lepuil_supportcomm.pdf" target="_blank"><img src="assets/img-travaux/r205/lair_lepuil_support1.png" width="226px"></a>
+                            <div class="caption">
+                                <div class="blur"></div>
+                                <div style="text-align: center;">
+                                    <div class="caption-text">
+                                        <h1>Support de communication</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
                 <div class="txt-intro">
                     <h3 class="module">R211 - Gestion de contenu</h3>
                 </div>
