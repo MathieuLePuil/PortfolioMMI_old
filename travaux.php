@@ -77,6 +77,26 @@ require("debut.php");
                     </ul>
                 </div>
             </div>
+            <div class="txt-intro">
+                <h3 class="module">R207 - Ecriture, Multimédia et Narration</h3>
+            </div>
+            <div class="element-portfolio">
+                <div class="container-a1">
+                    <ul class="caption-style-1">
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=SD6hJeVnkW0" target="_blank"><img src="assets/img-travaux/r207/mashup.png" width="400px"></a>
+                            <div class="caption">
+                                <div class="blur"></div>
+                                <div style="text-align: center;">
+                                    <div class="caption-text">
+                                        <h1>Mash up</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
                 <div class="txt-intro">
                     <h3 class="module">R211 - Gestion de contenu</h3>
                 </div>
