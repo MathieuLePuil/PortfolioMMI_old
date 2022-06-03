@@ -42,8 +42,8 @@ require("../../debut.php");
             </div>
             <div class="images">
                 <img src="../../assets/img-portfolio/comprendre/pcniglo.png" alt="pcniglo" width="400">
-                <img src="../../assets/img-portfolio/comprendre/pcniglo-1.png" alt="pcniglo-1" width="400">
-                <img src="../../assets/img-portfolio/comprendre/pcniglo-2.png" alt="pcniglo-2" width="400">
+                <img src="../../assets/img-portfolio/comprendre/pcniglo-2.png" alt="pcniglo-1" width="400">
+                <img src="../../assets/img-portfolio/comprendre/pcniglo-3.png" alt="pcniglo-2" width="400">
             </div>
             <div class="wherefind">
                 <a href="../../assets/document/Presentation%20Nigloland.odp" id="btn" style="margin-top: 0px;" target="_blank">Télécharger la présentation</a>
