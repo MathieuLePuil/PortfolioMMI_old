@@ -78,7 +78,7 @@ require("debut.php");
                 </div>
             </div>
             <div class="txt-intro">
-                <h3 class="module">R207 - Ecriture, Multimédia et Narration</h3>
+                <h3 class="module">R207 - Écriture, Multimédia et Narration</h3>
             </div>
             <div class="element-portfolio">
                 <div class="container-a1">
