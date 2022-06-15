@@ -395,6 +395,23 @@
                     </ul>
                 </div>
             </div>
+            <div class="element-portfolio">
+                <div class="container-a1">
+                    <ul class="caption-style-1">
+                        <li>
+                            <a href="portfolio/entreprendre/sae201.php"><img src="assets/img-portfolio/entreprendre/sae201.png" width="400px"></a>
+                            <div class="caption">
+                                <div class="blur"></div>
+                                <div style="text-align: center;">
+                                    <div class="caption-text">
+                                        <h1>SAE201 - Exploration des usages</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </section>
     </main>
 
