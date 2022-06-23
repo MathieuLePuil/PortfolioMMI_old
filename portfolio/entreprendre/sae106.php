@@ -29,7 +29,7 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>SAE105 - Site AC/DC</h2>
+                <h2>SAE106 - Gestion de projet</h2>
             </div>
             <div class="description">
                 <p>Un projet est un processus unique composé d’un ensemble d’actions

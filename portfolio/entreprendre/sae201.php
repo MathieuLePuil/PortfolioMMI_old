@@ -29,17 +29,15 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>SAE105 - Site AC/DC</h2>
+                <h2>SAE201 - Exploration des Usages</h2>
             </div>
             <div class="description">
-                <p>L'objectif de cette SAE était de réfléchir à la conception d'une application innovante concernant l'incitation des personnes à des comportements plus vertueux vis-à-vis des grands enjeux environnementaux et écologiques contemporains. Nous devions donc pour cela, analyser les commentaires d'applications déjà existantes afin de comprendre les besoins de l'utilisateur
+                <p>L'objectif de cette SAE était de réfléchir à la conception d'une application innovante concernant l'incitation des personnes à des comportements plus vertueux vis-à-vis des grands enjeux environnementaux et écologiques contemporains. Nous devions donc pour cela, analyser les commentaires d'applications déjà existantes afin de comprendre les besoins de l'utilisateur. Nous avons donc pu lister certaines fonctionnalités les plus intéressantes. Nous avons ensuite fait des entretiens afin de connaître l'approche des personnes envers cette cause. Nous avons étudié les mots les plus utilisés dans les réponses. Grâce à tout cela, nous avons pu tirer une conclusion et rédiger une recommandation pour l'application finale.
                 </p>
             </div>
             <div class="appcri">
                 <div>
-                    <p>• AC5101 | Gérer un projet avec une méthode classique</p>
-                    <p>• AC5102 | Budgétiser un projet et suivre sa rentabilité</p>
-                    <p>• AC5103 | Faire un appel d’offre (cahier des charges, brief, analyse des réponses, choix du prestataire, contractualisation)</p>
+                    <p>• AC5105 | Analyser un produit ou un service innovant en identifiant les propositions de valeurs et en évaluant les solutions proposées</p>
                 </div>
             </div>
             <div class="images">
