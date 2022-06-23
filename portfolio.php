@@ -394,8 +394,6 @@
                         </li>
                     </ul>
                 </div>
-            </div>
-            <div class="element-portfolio">
                 <div class="container-a1">
                     <ul class="caption-style-1">
                         <li>
