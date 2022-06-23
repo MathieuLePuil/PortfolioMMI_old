@@ -41,14 +41,12 @@ require("../../debut.php");
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/entreprendre/sae106.png" alt="sae106_1" width="400">
-                <img src="../../assets/img-portfolio/entreprendre/sae106-1.png" alt="sae106_1" width="400">
-                <img src="../../assets/img-portfolio/entreprendre/sae106-2.png" alt="sae106_2" width="400">
-                <img src="../../assets/img-portfolio/entreprendre/sae106-3.png" alt="sae106_3" width="400">
+                <img src="../../assets/img-portfolio/entreprendre/sae201.png" alt="sae201" width="400">
+                <img src="../../assets/img-portfolio/entreprendre/sae201-1.png" alt="sae201-1" width="400">
+                <img src="../../assets/img-portfolio/entreprendre/sae201-2.png" alt="sae201-2" width="400">
             </div>
             <div class="wherefind">
-                <a href="../../assets/document/chartesae106.pdf" id="btn" style="margin-top: 0px;" target="_blank">Charte de projet</a>
-                <a href="../../assets/document/plansae106.pdf" id="btn" style="margin-top: 0px;" target="_blank">Plan de projet</a>
+                <a href="../../assets/document/sae201.pdf" id="btn" style="margin-top: 0px;" target="_blank">Synthèse</a>
             </div>
         </section>
     </main>
