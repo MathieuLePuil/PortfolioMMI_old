@@ -46,7 +46,7 @@ require("../../debut.php");
                 <img src="../../assets/img-portfolio/entreprendre/sae201-2.png" alt="sae201-2" width="400">
             </div>
             <div class="wherefind">
-                <a href="../../assets/document/sae201.pdf" id="btn" style="margin-top: 0px;" target="_blank">Synthèse</a>
+                <a href="https://youtu.be/ATQW7HpXpMI" id="btn" style="margin-top: 0px;" target="_blank">CV vidéo</a>
             </div>
         </section>
     </main>
