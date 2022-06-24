@@ -29,10 +29,10 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>WR207 - Mashup</h2>
+                <h2>WR210 - MMI à la manière de...</h2>
             </div>
             <div class="description">
-                <p>Lors de nos cours d'écriture, Multimédia et Narration, nous avons créé une vidéo sur le thème "Être étudiant en 2022". La contrainte était d'utilisé uniquement des extraits trouvables sur internet. Aucune scène ne devait être tournée par nos soins.</p>
+                <p>"MMI à la manière de" est un projet audiovisuel dans lequel nous devions présenter la formation MMI selon un thème tirer au sort. Le nôtre était : le Lip Bub.</p>
             </div>
             <div class="appcri">
                 <div>
@@ -40,9 +40,9 @@ require("../../debut.php");
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/exprimer/wr207.png" alt="wr207" width="500">
-                <img src="../../assets/img-portfolio/exprimer/wr207-1.png" alt="wr207-1" width="500">
-                <img src="../../assets/img-portfolio/exprimer/wr207-2.png" alt="wr207-2" width="500">
+                <img src="../../assets/img-portfolio/exprimer/wr210.png" alt="wr210" width="500">
+                <img src="../../assets/img-portfolio/exprimer/wr210-1.png" alt="wr210-1" width="500">
+                <img src="../../assets/img-portfolio/exprimer/wr210-2.png" alt="wr210-2" width="500">
             </div>
         </section>
         <div class="wherefind">
