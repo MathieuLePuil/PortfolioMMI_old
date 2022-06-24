@@ -29,27 +29,25 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>Analyse Sectorielle SAE101</h2>
+                <h2>Maquette Custom Air</h2>
             </div>
             <div class="description">
-                <p>Dans le cadre de la SAE101, Audit Communication Numérique, nous devions analyser cinq sites de musées. Nous devions les comparer afin de trouver par exemple les défauts et qualités de chacun. L'objectif est de conduire à des préconisations et des recommandations pour la conception d'un site de musée.</p>
+                <p>Custom Air est un site de réservation de vol privé. Nous avons dû réaliser la maquette du site en respectant les tendances du domaine (typographie, mise en page...). Nous l'avons créé grâce au logiciel Figma.</p>
             </div>
             <div class="appcri">
                 <div>
-                    <p>• AC1101 | Appréhender un contexte économique, sociologique, culturel, juridique, technologique, communicationnel et médiatique</p>
                     <p>• AC1102 | Évaluer un site web, un produit multimédia ou un dispositif interactif existant en s’appuyant sur des guides de bonnes pratiques</p>
-                    <p>• AC1103 | Extraire et interpréter des indicateurs quantitatifs (métriques) et statistiques pour évaluer l’efficacité d’un service ou d’un site Web</p>
                     <p>• AC1104 | Interpréter les éléments sémiotiques (langage, ton de voix, logotype, typographies, couleurs, visuels...)</p>
-                    <p>• AC1105 | Identifier les cibles (critères socio-économiques, démographiques, géographiques, culturels...)</p>
+                    <p>• AC1107 | Bâtir le modèle des attentes utilisateurs</p>
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/comprendre/sae101.png" alt="sae101" width="400">
-                <img src="../../assets/img-portfolio/comprendre/sae101-1.png" alt="sae101-1" width="400">
-                <img src="../../assets/img-portfolio/comprendre/sae101-2.png" alt="sae101-2" width="400">
+                <img src="../../assets/img-portfolio/comprendre/customair.png" alt="customair" width="400">
+                <img src="../../assets/img-portfolio/comprendre/customair-1.png" alt="customair-1" width="400">
+                <img src="../../assets/img-portfolio/comprendre/customair-2.png" alt="customair-2" width="400">
             </div>
             <div class="wherefind">
-                <a href="../../assets/document/WS101%20-%20SAE%20-%20Audit%20communication%20numérique.pdf" id="btn" style="margin-top: 0px;" target="_blank">Télécharger la présentation</a>
+                <a href="../../assets/document/Maquette%20Custom%20Air.zip" id="btn" style="margin-top: 0px;" target="_blank">Télécharger la maquette</a>
             </div>
         </section>
     </main>
