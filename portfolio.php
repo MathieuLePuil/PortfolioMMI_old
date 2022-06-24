@@ -409,6 +409,21 @@
                         </li>
                     </ul>
                 </div>
+                <div class="container-a1">
+                    <ul class="caption-style-1">
+                        <li>
+                            <a href="portfolio/entreprendre/cvvideo.php"><img src="assets/img-portfolio/entreprendre/cvvide.png" width="400px"></a>
+                            <div class="caption">
+                                <div class="blur"></div>
+                                <div style="text-align: center;">
+                                    <div class="caption-text">
+                                        <h1>SAE204 - Construire sa présence en ligne (CV vidéo)</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </section>
     </main>
