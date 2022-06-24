@@ -196,6 +196,10 @@ header nav ul li a {
     width: 100%;
 }
 
+.txt-intro h2 {
+    font-size: 50px;
+}
+
 @media screen and (max-width: 1070px) {
     .txt-intro {
         display: flex;
@@ -235,4 +239,8 @@ footer {
 .module {
     font-size: 35px;
     margin-top: 40px;
+}
+
+.container-a1 {
+    margin-bottom: 60px;
 }
