@@ -32,18 +32,18 @@ require("../../debut.php");
                 <h2>SAE204 - Construire sa présence en ligne (CV vidéo)</h2>
             </div>
             <div class="description">
-                <p>L'objectif de cette SAE était de réfléchir à la conception d'une application innovante concernant l'incitation des personnes à des comportements plus vertueux vis-à-vis des grands enjeux environnementaux et écologiques contemporains. Nous devions donc pour cela, analyser les commentaires d'applications déjà existantes afin de comprendre les besoins de l'utilisateur. Nous avons donc pu lister certaines fonctionnalités les plus intéressantes. Nous avons ensuite fait des entretiens afin de connaître l'approche des personnes envers cette cause. Nous avons étudié les mots les plus utilisés dans les réponses. Grâce à tout cela, nous avons pu tirer une conclusion et rédiger une recommandation pour l'application finale.
+                <p>Durant la SAE204 (Construire sa présence en ligne), nous avons développé nos réseaux sociaux professionnels comme Linkedin et Github. Nous avons également créé un CV vidéo afin de nous présenter.
                 </p>
             </div>
             <div class="appcri">
                 <div>
-                    <p>• AC5105 | Analyser un produit ou un service innovant en identifiant les propositions de valeurs et en évaluant les solutions proposées</p>
+                    <p>• AC5106 | Construire une présence en ligne professionnelle (personal branding)</p>
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/entreprendre/sae201.png" alt="sae201" width="400">
-                <img src="../../assets/img-portfolio/entreprendre/sae201-1.png" alt="sae201-1" width="400">
-                <img src="../../assets/img-portfolio/entreprendre/sae201-2.png" alt="sae201-2" width="400">
+                <img src="../../assets/img-portfolio/entreprendre/cvvideo.png" alt="cvvideo" width="400">
+                <img src="../../assets/img-portfolio/entreprendre/cvvideo-1.png" alt="cvvideo-1" width="400">
+                <img src="../../assets/img-portfolio/entreprendre/cvvideo-2.png" alt="cvvideo-2" width="400">
             </div>
             <div class="wherefind">
                 <a href="https://youtu.be/ATQW7HpXpMI" id="btn" style="margin-top: 0px;" target="_blank">CV vidéo</a>
