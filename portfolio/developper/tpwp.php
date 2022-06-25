@@ -29,24 +29,23 @@ require("../../debut.php");
     <main>
         <section class="presentation-element">
             <div class="titre-element">
-                <h2>WR213 - Développement Web (semestre 2)</h2>
+                <h2>Wordpress</h2>
             </div>
             <div class="description">
-                <p></p>
+                <p>Notre premier contact avec Wordpress était de créer un site pour présenter le BDE de l'IUT de Troyes. Nous devions réaliser une page d'accueil, une page membre, une boutique, un calendrier et une page contact. Nous avons utilisé les plugins pour améliorer le site.</p>
             </div>
             <div class="appcri">
                 <div>
-                    <p>• AC4101 | Exploiter de manière autonome un environnement de développement efficace et productif</p>
-                    <p>• AC4102 | Produire des pages Web statiques et fluides utilisant un balisage sémantique efficace</p>
-                    <p>• AC4104 | Mettre en ligne une application Web en utilisant une solution d’hébergement standard</p>
-                    <p>• AC4105 | Modéliser les données et les traitements d’une application Web</p>
-                    <p>• AC4106 | Utiliser et adapter un modèle d’accès aux données</p>
+                    <p>• AC4107 | Déployer et personnaliser une application Web en utilisant un CMS ou un framework MVC</p>
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/developper/r213-1.png" alt="r213-1" width="400">
-                <img src="../../assets/img-portfolio/developper/r213-2.png" alt="r213-2" width="400">
-                <img src="../../assets/img-portfolio/developper/r213-3.png" alt="r213-3" width="400">
+                <img src="../../assets/img-portfolio/developper/tpwp.png" alt="tpwp" width="400">
+                <img src="../../assets/img-portfolio/developper/tpwp-1.png" alt="tpwp-1" width="400">
+                <img src="../../assets/img-portfolio/developper/tpwp-2.png" alt="tpwp-2" width="400">
+            </div>
+            <div class="wherefind">
+                <a href="https://mmi21b12.mmi-troyes.fr/tpwp2/" id="btn" style="margin-top: 0px;" target="_blank">Lien du site</a>
             </div>
         </section>
     </main>
