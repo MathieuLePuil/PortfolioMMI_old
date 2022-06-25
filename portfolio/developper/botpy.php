@@ -32,20 +32,20 @@ require("../../debut.php");
                 <h2>Wordpress</h2>
             </div>
             <div class="description">
-                <p>Notre premier contact avec Wordpress était de créer un site pour présenter le BDE de l'IUT de Troyes. Nous devions réaliser une page d'accueil, une page membre, une boutique, un calendrier et une page contact. Nous avons utilisé les plugins pour améliorer le site.</p>
+                <p>Lors du premier confinement, j'ai créé un serveur discord en rapport avec un jeu vidéo. L'objectif de notre serveur est de vendre les objets présents dans celui-ci. Pour automatiser les tout, nous devions absolument utiliser un bot. Je comptais le faire développer par un ami au début. Puis j'ai commencé à apprendre sérieusement le Python. Je me suis lancé l'objectif de faire le bot du serveur. À ce jour, j'ai travaillé plus de 500 heures pour que le bot fonctionne correctement.</p>
             </div>
             <div class="appcri">
                 <div>
-                    <p>• AC4107 | Déployer et personnaliser une application Web en utilisant un CMS ou un framework MVC</p>
+                    <p>• AC4101 | Exploiter de manière autonome un environnement de développement efficace et productif</p>
                 </div>
             </div>
             <div class="images">
-                <img src="../../assets/img-portfolio/developper/tpwp.png" alt="tpwp" width="400">
-                <img src="../../assets/img-portfolio/developper/tpwp-1.png" alt="tpwp-1" width="400">
-                <img src="../../assets/img-portfolio/developper/tpwp-2.png" alt="tpwp-2" width="400">
+                <img src="../../assets/img-portfolio/developper/botpy-1.png" alt="botpy-1" width="700">
+                <img src="../../assets/img-portfolio/developper/botpy-2.png" alt="botpy-2" width="400">
+                <img src="../../assets/img-portfolio/developper/botpy-3.png" alt="botpy-3" width="400">
             </div>
             <div class="wherefind">
-                <a href="https://mmi21b12.mmi-troyes.fr/tpwp2/" id="btn" style="margin-top: 0px;" target="_blank">Lien du site</a>
+                <a href="https://github.com/MathieuLePuil/discord.py" id="btn" style="margin-top: 0px;" target="_blank">Lien du Github</a>
             </div>
         </section>
     </main>
